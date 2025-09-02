@@ -1,4 +1,3 @@
 print("Hi everyone!")
 
-# fix this later...
-# ..
+print("Hope you're all having a good week!")
